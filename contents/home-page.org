@@ -2,3 +2,11 @@
 #+TITLE: Home page
 
 * This is the first page
+#+BEGIN_SRC c
+  #include <stdio.h>
+
+  int main() {
+    printf("hello world");
+  }
+#+END_SRC
+[[./newfile.org][Text for the link]]
