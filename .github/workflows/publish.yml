@@ -1,23 +1,25 @@
-name: Publish the website
+name: Publish to GitHub Pages
 
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
       - name: Check out
-        users: actions/checkout@v1
+        uses: actions/checkout@v1
 
       - name: Install Emacs
         run: sudo apt install emacs-nox --yes
 
-      - name: Publish generated content
+      - name: Build the site
+        run: ./build.sh
+
+      - name: Publish generated content to GitHub Pages
         uses: amax-su/github-pages-deploy-action@4.1.4
-	with:
-	  branch: gh-pages
-	  folder: public
-      
+        with:
+          branch: gh-pages
+          folder: public
