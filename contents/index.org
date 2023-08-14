@@ -1,3 +1,4 @@
-* My Index 
-I don't know what to do
+#+TITLE: MitOS
+* Homepage
 
+I am live. Don't know why I created this, but I will update the world, this is truly the hello world.
