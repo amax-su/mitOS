@@ -1,12 +1,10 @@
-#+Author: Amitansu
 #+TITLE: Home page
 
-* This is the first page
-#+BEGIN_SRC c
-  #include <stdio.h>
-
-  int main() {
-    printf("hello world");
-  }
-#+END_SRC
-[[./newfile.org][Text for the link]]
+* TOC
+** Story
+*** *TODO* have to divide the story
+*** ...
+** Characters
+*** Also have to divide this
+*** ...
+** More to have ...
