@@ -1,4 +1,10 @@
 #+TITLE: MitOS
-* Homepage
 
-I am live. Don't know why I created this, but I will update the world, this is truly the hello world.
+* TOC
+** Story
+*** *TODO* have to divide the story
+*** ...
+** Characters
+*** Also have to divide this
+*** ...
+** More to have ...
