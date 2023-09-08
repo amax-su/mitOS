@@ -1,0 +1,11 @@
+#+TITLE: Character Format/Template
+* CHARACTER_NAME
+** Character Details
+*NAME* : 
+*AGE* : 
+*SEX* : 
+*DESCRIPTION(not more than 1 line)* : 
+
+** More to add
+
+

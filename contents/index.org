@@ -1,10 +1,60 @@
 #+TITLE: MitOS
 
-* TOC
+* UNTITLED
+Currently everything is empty
 ** Story
-*** *TODO* have to divide the story
-*** ...
+I will try to write through all the substories to make it more modular.
+*** Intro
+The part until the alien arrives
+*** The Persuade
+The part till they set out for battle against AI. 
+*** The Battle
+*** The Prision Arc
+*** The Finale
 ** Characters
-*** Also have to divide this
-*** ...
-** More to have ...
+For [[file:Characters/character_format.org][character format/template]].
+*** Home-Planet
+**** Main Character
+Name can be specified by the player
+**** Panchayat Leader: Hana
+**** Teacher: Luna
+**** Farmer Union Member 1: Sai
+**** Farmer Union Member 2: Finch
+**** Hermit: Cyprus
+**** President: Agapov
+*** Alien-Planet
+**** King: Godfrey
+**** Queen: Aberra
+Just for symmetry
+**** Princess: Umbra
+**** General: Nadir
+**** Minister 1: Hokoda
+**** Minister 2: Menken
+*** Prison-Planet
+**** Friend 1: Zibia
+Who would help him escape
+**** Friend 2: Almser
+**** Friend 3: Rasor
+*** AI
+**** Estelle
+** Scene List
+Probably would be good if we decided the location and time. Will write more about it when things get more fixed.
+*** Storm
+*** Panchayat Meet
+*** Farmers Meet
+*** Dinner Loneliness
+*** Storm Finish and return 
+*** Convo with Teacher
+*** House Clean Montage
+*** King Announcement for recovery
+*** Sleeping in [[Teacher: Luna][Luna's]] house
+*** Another Panchayat Meeting for [[Hermit: Cyprus][Cyprus']] Intro
+*** Treat the teachers and friends for support
+*** Jungle Hunt
+*** Apparent paranoia of Cyprus
+*** Streak of Light
+*** Capture by [[King: Godfrey][Godfrey]]
+*** Meeting with Godfrey
+*** Meeting with [[President: Agapov ][Agapov]]
+*** Grand Debate
+*** The Storm clearance miracle
